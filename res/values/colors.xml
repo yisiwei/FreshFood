@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 灰色 -->
+	<color name="action_bar_left_pressed">#808080</color>
+	
+	<!-- 背景颜色 -->
+	<color name="bg_color">#EFEFF4</color>
+	
+	<!-- title背景色 -->
+	<color name="action_bar_bg">#45C01A</color>
+	<color name="title_color">#007be3</color>
+	<color name="title_color_normal">#808080</color>
+	
+	<!-- 线条颜色 -->
+	<color name="line">#ddd</color>
+	
+	<color name="fff">#ffffff</color>
+	<color name="color_333">#333</color>
+	<color name="color_666">#666</color>
+	
+</resources>
